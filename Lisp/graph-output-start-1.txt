@@ -1,0 +1,23 @@
+[4]> (dijkstra)
+
+Enter the name of the file containing the graph, or
+press enter for the default file (C:\graph.txt): c:\\users\\rothgh\\documents\\graph.txt
+
+Enter the start node, or press enter to use zero: 1
+
+Here is the initial graph:
+(5 (0 1 10) (0 3 5) (1 2 1) (1 3 3) (2 4 6) (3 1 2) (3 2 9) (3 4 2) (4 0 7)
+ (4 2 4))
+Real time: 0.0 sec.
+Run time: 0.0 sec.
+Space: 264 Bytes
+
+Node   Dist
+----   ----
+1      0
+2      1
+3      3
+4      5
+0      12
+DONE
+[5]>
